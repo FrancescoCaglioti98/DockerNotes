@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "f50c3f9bb9cee843",
+    "type": "split",
+    "children": [
+      {
+        "id": "0208e54f954a5ec1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18eb4d8ad9847147",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9aa527e5652b99fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2399fd2b61ab47f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e95d9024e6778b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64f2a96a6bb13082",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "82adea343b74549f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "20659872c1bf4bd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "11dc1e897337f746",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ede664c016073eab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "439732e796f943f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c382eb05c27ddf7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "26fe44425f06fde4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "18eb4d8ad9847147",
+  "lastOpenFiles": [
+    "Dockerfile.md",
+    "images/docker_compose/docker_compose_images.png",
+    "docker_compose.md",
+    "images/docker_compose/docker_compose_links.png",
+    "images/docker_compose/compless_application_docker_run.png",
+    "images/docker_compose/compless_application_docker_run_hosts_file.png",
+    "images/docker_compose/compless_application_docker_run_link.png",
+    "images/docker_compose",
+    "docker_commands.md",
+    "images",
+    "docker_images.md",
+    "env_variables.md",
+    "cmd_vs_entrypoint.md",
+    "docker_run.md"
+  ]
+}
